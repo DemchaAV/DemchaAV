@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Artem 👋
+Java / Spring Boot developer based in the UK (London).
 
-<!--
-**DemchaAV/DemchaAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech stack
+- Java, Spring Boot, Spring Security, JPA/Hibernate
+- PostgreSQL, Flyway, Docker, Maven
+- REST APIs, JWT, testing (JUnit 5, Mockito)
 
-Here are some ideas to get you started:
+### Featured projects
+- **BudgetMonitor** — personal finance tracker (Spring Boot + PostgreSQL + Flyway)
+- **CVRewriter** — AI CV tailoring + PDF generation
+- **GraphCompose** — custom PDF layout engine (PDFBox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI tooling (applied)
+- Building agent workflows for automation (skills-based prompts, review/test/docs pipelines)
+- Using LLM APIs with structured outputs (JSON-first)
+
+### Currently learning
+- Advanced Spring Security, system design, cloud basics
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/artemdemchyshyn/
+- GitHub: https://github.com/DemchaAV
