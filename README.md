@@ -1,6 +1,6 @@
 # Hi, I'm Artem 👋
 
-**Junior Java Backend Developer** · London, UK 🇬🇧
+**Java Backend Developer** · London, UK 🇬🇧
 
 I build production-ready REST APIs with Spring Boot, focusing on clean architecture, security, and automation.
 
@@ -84,6 +84,6 @@ I actively use LLM APIs in my projects — not just as a buzzword:
 
 ## 📬 Contact
 
-Open to **Junior Java Backend** roles in London (on-site / hybrid).
+Open to **Java Backend** roles in London (on-site / hybrid).
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemdemchyshyn/)
