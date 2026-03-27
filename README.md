@@ -65,8 +65,8 @@ Java client library for Google Gemini API with structured JSON output, Anki flas
 ## 📈 GitHub stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DemchaAV&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemchaAV&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  <img height="160" src="https://streak-stats.demolab.com?user=DemchaAV&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemchaAV&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=86400" />
 </p>
 
 ---
