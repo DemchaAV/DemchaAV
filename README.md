@@ -1,6 +1,6 @@
 # Hi, I'm Artem 👋
 
-**Java Backend Developer** · London, UK 🇬🇧
+**Java Backend Developer** · London, UK 🇬🇧🇺🇦
 
 I build production-ready REST APIs with Spring Boot, focusing on clean architecture, security, and automation.
 
