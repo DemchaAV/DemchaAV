@@ -44,21 +44,22 @@ I build production-ready REST APIs with Spring Boot, focusing on clean architect
 
 ## 🚀 Featured projects
 
+### [GraphCompose](https://github.com/DemchaAV/GraphCompose)
+Custom PDF layout engine built on Apache PDFBox — grid-based rendering, multi-column flow, Cyrillic font support.
+`Java` `PDFBox` `PDF rendering`
+
 ### [CVRewriter](https://github.com/DemchaAV/CVRewriter-Showcase)
 Full-stack app that scrapes job postings (LinkedIn/Indeed via Playwright), rewrites your CV using Gemini AI, and generates a tailored PDF — all in one click.
 `Spring Boot` `React` `Playwright` `Gemini AI` `JWT` `SSE` `Docker` `MySQL`
+
+### [GeminiAPI Client](https://github.com/DemchaAV/GeminiAPI)
+Java client library for Google Gemini API with structured JSON output, Anki flashcard generation pipeline.
+`Java` `Gemini AI` `JSON Schema`
 
 ### [Spring Cart API](https://github.com/DemchaAV/Spring-Cart-API)
 Production-ready REST API for products, shopping carts, and cart items. JWT auth, role-based access, rate limiting, OpenAPI docs, Flyway migrations.
 `Spring Boot 3` `Spring Security` `MySQL` `Flyway` `MapStruct` `Swagger` `Docker`
 
-### [GraphCompose](https://github.com/DemchaAV/GraphCompose)
-Custom PDF layout engine built on Apache PDFBox — grid-based rendering, multi-column flow, Cyrillic font support.
-`Java` `PDFBox` `PDF rendering`
-
-### [GeminiAPI Client](https://github.com/DemchaAV/GeminiAPI)
-Java client library for Google Gemini API with structured JSON output, Anki flashcard generation pipeline.
-`Java` `Gemini AI` `JSON Schema`
 
 ---
 
