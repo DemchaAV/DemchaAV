@@ -52,7 +52,7 @@ Full-stack app that scrapes job postings (LinkedIn/Indeed via Playwright), rewri
 Production-ready REST API for products, shopping carts, and cart items. JWT auth, role-based access, rate limiting, OpenAPI docs, Flyway migrations.
 `Spring Boot 3` `Spring Security` `MySQL` `Flyway` `MapStruct` `Swagger` `Docker`
 
-### [GraphCompose](https://github.com/DemchaAV/GraphCompose) *(coming soon)*
+### [GraphCompose](https://github.com/DemchaAV/GraphCompose)
 Custom PDF layout engine built on Apache PDFBox — grid-based rendering, multi-column flow, Cyrillic font support.
 `Java` `PDFBox` `PDF rendering`
 
