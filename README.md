@@ -1,6 +1,6 @@
 # Hi, I'm Artem 👋
 
-**Junior Java Backend Developer** · London, UK 🇬🇧 🇺🇦
+**Java Backend Developer** · London, UK 🇬🇧 🇺🇦
 
 I build backend systems with **Java, Spring Boot, SQL, Docker, and AI integrations**.
 
