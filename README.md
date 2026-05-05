@@ -119,5 +119,6 @@ Examples:
 ## 📬 Contact
 
 Open to **Java Backend Developer** roles in London — on-site or hybrid.
+Interested in backend systems, developer tools, document automation, and AI-assisted products.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemdemchyshyn/)
