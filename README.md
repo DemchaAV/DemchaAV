@@ -118,7 +118,10 @@ Examples:
 
 ## 📬 Contact
 
-Open to **Java Backend Developer** roles in London — on-site or hybrid.
-Interested in backend systems, developer tools, document automation, and AI-assisted products.
+I build Java backend systems, developer tools, and document automation products.
+
+My main focus is GraphCompose — a semantic document layout engine for Java — together with AI-assisted workflows for CV rewriting, PDF generation, and structured document automation.
+
+Always interested in thoughtful conversations around Java, backend architecture, developer tools, and product-quality engineering.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemdemchyshyn/)
