@@ -2,24 +2,20 @@
 
 **Java Backend Engineer** · London, UK 🇬🇧 🇺🇦
 
-💼 **Open to Java backend contract roles (UK)** — fastest way to reach me: [LinkedIn](https://www.linkedin.com/in/artemdemchyshyn/)
+💼 **Open to Java backend opportunities in the UK** — [contact me on LinkedIn](https://www.linkedin.com/in/artemdemchyshyn/)
 
 I build backend systems, developer tools, and document-generation infrastructure with **Java, Spring Boot, SQL, Docker, and AI APIs**.
 
 Currently building **[GraphCompose](https://github.com/DemchaAV/GraphCompose)** — an open-source Java layout engine for deterministic, testable business documents without manual coordinates.
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.demchaav/graph-compose?style=flat&logo=apachemaven&label=graph-compose&color=blue)](https://central.sonatype.com/artifact/io.github.demchaav/graph-compose)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.demchaav/graphcompose-markdown?style=flat&logo=apachemaven&label=graphcompose-markdown&color=blue)](https://central.sonatype.com/artifact/io.github.demchaav/graphcompose-markdown)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.demchaav/graph-compose-markdown?style=flat&logo=apachemaven&label=graph-compose-markdown&color=blue)](https://central.sonatype.com/artifact/io.github.demchaav/graph-compose-markdown)
 [![GitHub stars](https://img.shields.io/github/stars/DemchaAV/GraphCompose?style=flat&logo=github&label=GraphCompose)](https://github.com/DemchaAV/GraphCompose/stargazers)
 
 ![Java](https://img.shields.io/badge/Java_17%2F21-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Relational_DBs-336791?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-artemdemchyshyn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemdemchyshyn/)
-[![X](https://img.shields.io/badge/X-@DemchaAV-black?style=flat&logo=x&logoColor=white)](https://x.com/DemchaAV)
-[![Threads](https://img.shields.io/badge/Threads-@demchishyn-black?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@demchishyn)
 
 ---
 
@@ -72,7 +68,7 @@ Includes JWT authentication, role-based authorization, JPA persistence, Flyway m
 [Gemini Java Client](https://github.com/DemchaAV/GeminiAPI) ·
 [GraphCompose AI Template Flow](https://github.com/DemchaAV/graphcompose-ai-flow)
 
-**Contributed to:** [MarkMello](https://github.com/DemchaAV/MarkMello)
+**Open-source contribution:** [MarkMello](https://github.com/DemchaAV/MarkMello)
 
 ---
 
