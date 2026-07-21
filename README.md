@@ -2,8 +2,6 @@
 
 **Java Backend Engineer** · London, UK 🇬🇧 🇺🇦
 
-💼 **Open to Java backend opportunities in the UK** — [contact me on LinkedIn](https://www.linkedin.com/in/artemdemchyshyn/)
-
 I build backend systems, developer tools, and document-generation infrastructure with **Java, Spring Boot, SQL, Docker, and AI APIs**.
 
 Currently building **[GraphCompose](https://github.com/DemchaAV/GraphCompose)** — an open-source Java layout engine for deterministic, testable business documents without manual coordinates.
